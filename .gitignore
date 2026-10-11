@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtuelle Umgebungen
+.venv/
+venv/
+env/
+
+# Tests und Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editoren und Betriebssystem
+.DS_Store
+.idea/
+.vscode/
+
+# Lokale Daten und Geheimnisse
+.env
+*.csv
+data/
+*.parquet
